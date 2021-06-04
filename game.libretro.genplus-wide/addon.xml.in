@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.genplus-wide"
+		name="Sega - MS/GG/MD/CD (Genesis Plus GX Wide)"
+		version="1.7.4.1"
+		provider-name="Charles McDonald, Eke-Eke, heyjoeway">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
+		<platforms></platforms>
+		<extensions>m3u|mdx|md|smd|gen|bin|cue|iso|chd|bms|sms|gg|sg</extensions>
+		<supports_vfs>false</supports_vfs>
+		<supports_standalone>false</supports_standalone>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Sega - MS/GG/MD/CD (Genesis Plus GX Wide) v1.7.4</summary>
+		<description lang="en_GB">Supported files: .m3u, .mdx, .md, .smd, .gen, .bin, .cue, .iso, .chd, .bms, .sms, .gg, .sg</description>
+		<license>Non-commercial</license>
+		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.genplus-wide</source>
+	</extension>
+</addon>
