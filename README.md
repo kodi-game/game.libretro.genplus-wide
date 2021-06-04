@@ -1,0 +1,1 @@
+# game.libretro.genplus-wide
