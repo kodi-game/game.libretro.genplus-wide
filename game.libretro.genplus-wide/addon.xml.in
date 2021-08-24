@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.genplus-wide</source>
 		<summary lang="en_GB">Sega - MS/GG/MD/CD (Genesis Plus GX Wide) v1.7.4</summary>
-		<description lang="en_GB">This emulator is a widescreen modification of Genesis Plus GX, a Sega/Genesis/Mega CD emulator that originally ran on the GameCube.</description>
+		<description lang="en_GB">Widescreen modification of Genesis Plus GX.Supported files: .m3u, .mdx, .md, .smd, .gen, .bin, .cue, .iso, .chd, .bms, .sms, .gg, .sg</description>
 	</extension>
 </addon>
