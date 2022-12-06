@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.genplus-wide\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-06-03 20:42i\n"
-"PO-Revision-Date: 2022-11-26 00:39+0000\n"
+"PO-Revision-Date: 2022-12-06 06:49+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-genplus-wide/it_it/>\n"
 "Language: it_it\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "A widescreen modification of Genesis Plus GX, a Sega/Genesis/Mega CD emulator that originally ran on the GameCube."
-msgstr ""
+msgstr "Una modifica widescreen di Genesis Plus GX, un emulatore di Sega/Genesis/Mega CD originariamente eseguito su GameCube."
 
 msgctxt "#30000"
 msgid "Settings"
@@ -31,15 +31,15 @@ msgstr "Impostazioni"
 
 msgctxt "#30001"
 msgid "System Hardware"
-msgstr ""
+msgstr "Hardware di sistema"
 
 msgctxt "#30002"
 msgid "System Region"
-msgstr ""
+msgstr "Regione del sistema"
 
 msgctxt "#30003"
 msgid "System Boot ROM"
-msgstr ""
+msgstr "ROM di avvio del sistema"
 
 msgctxt "#30004"
 msgid "CD System BRAM"
@@ -51,7 +51,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Cartridge Lock-On"
-msgstr ""
+msgstr "Blocco della cartuccia"
 
 msgctxt "#30007"
 msgid "Core-Provided Aspect Ratio"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Frameskip"
-msgstr "Salta fotogrammi"
+msgstr "Salto fotogrammi"
 
 msgctxt "#30017"
 msgid "Frameskip Threshold (%)"
@@ -111,23 +111,23 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Sound Output"
-msgstr ""
+msgstr "Uscita audio"
 
 msgctxt "#30022"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtro audio"
 
 msgctxt "#30023"
 msgid "Low-Pass Filter %"
-msgstr ""
+msgstr "Filtro passa basso %"
 
 msgctxt "#30024"
 msgid "PSG Preamp Level"
-msgstr ""
+msgstr "Livello preamplificatore PSG"
 
 msgctxt "#30025"
 msgid "FM Preamp Level"
-msgstr ""
+msgstr "Livello preamplificatore FM"
 
 msgctxt "#30026"
 msgid "Light Gun Input"
@@ -147,7 +147,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "CPU Speed"
-msgstr ""
+msgstr "Velocità CPU"
 
 msgctxt "#30031"
 msgid "System Lock-Ups"
