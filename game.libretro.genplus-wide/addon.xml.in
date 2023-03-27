@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Sega - MS/GG/MD/CD (Genesis Plus GX Wide)</summary>
+		<summary lang="es_ES">Sega - MS/GG/MD/CD (Genesis Plus GX Ancho)</summary>
 		<description lang="da_DK">En widescreen-modifikation af Genesis Plus GX, en Sega/Genesis/Mega CD-emulator, der oprindeligt kørte på GameCube.</description>
 		<description lang="de_DE">Eine Widescreen-Modifikation von Genesis Plus GX, einem Sega/Genesis/Mega CD-Emulator, der ursprünglich auf dem GameCube lief.</description>
 		<description lang="en_GB">A widescreen modification of Genesis Plus GX, a Sega/Genesis/Mega CD emulator that originally ran on the GameCube.</description>
