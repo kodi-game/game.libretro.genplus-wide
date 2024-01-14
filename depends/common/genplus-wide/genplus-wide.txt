@@ -1,1 +1,1 @@
-genplus-wide https://github.com/libretro/Genesis-Plus-GX-Wide/archive/659329cbfbc3267f4f617910a3ecee60dd655dac.tar.gz
+genplus-wide https://github.com/libretro/Genesis-Plus-GX-Wide/archive/d5531ca58d628a2ba6f791804aa01e2fb2cb0e13.tar.gz
