@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "A widescreen modification of Genesis Plus GX, a Sega/Genesis/Mega CD emulator that originally ran on the GameCube."
 msgstr "Genesis Plus GX 的宽屏修改，这是最初在 GameCube 上运行的 Sega/Genesis/Mega CD 模拟器。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "System Hardware"
 msgstr "系统硬件"
@@ -280,6 +276,10 @@ msgstr ""
 msgctxt "#30064"
 msgid "CD Image Cache"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30004"
 #~ msgid "CD System BRAM"
