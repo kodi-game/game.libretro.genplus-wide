@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.genplus-wide\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-06-03 20:42i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-genplus-wide/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,11 +27,11 @@ msgstr "En bredbildsversion av Genesis Plus GX, en Sega/Genesis/Mega CD-emulator
 
 msgctxt "#30001"
 msgid "System Hardware"
-msgstr ""
+msgstr "Systemhårdvara"
 
 msgctxt "#30002"
 msgid "System Region"
-msgstr ""
+msgstr "Systemregion"
 
 msgctxt "#30003"
 msgid "System Boot ROM"
