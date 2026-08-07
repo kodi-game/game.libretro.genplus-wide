@@ -277,6 +277,22 @@ msgctxt "#30064"
 msgid "CD Image Cache"
 msgstr "Кэш образов CD"
 
+msgctxt "#30065"
+msgid "Extra columns alpha %"
+msgstr ""
+
+msgctxt "#30066"
+msgid "FM Enhancement"
+msgstr ""
+
+msgctxt "#30067"
+msgid "FM Voice-Steal Recovery (Experimental)"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Sound Samplerate (Hint)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Настройки"
