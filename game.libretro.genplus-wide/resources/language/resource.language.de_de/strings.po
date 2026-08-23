@@ -937,6 +937,26 @@ msgctxt "#30229"
 msgid "Reduce the volume of the Master System FM Channel 8."
 msgstr ""
 
+msgctxt "#30230"
+msgid "NTSC PAR"
+msgstr ""
+
+msgctxt "#30231"
+msgid "PAL PAR"
+msgstr ""
+
+msgctxt "#30232"
+msgid "4:3"
+msgstr ""
+
+msgctxt "#30233"
+msgid "Uncorrected"
+msgstr ""
+
+msgctxt "#30234"
+msgid "EQ"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Einstellungen"
