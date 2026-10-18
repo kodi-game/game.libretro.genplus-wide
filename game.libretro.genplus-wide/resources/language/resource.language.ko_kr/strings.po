@@ -27,43 +27,43 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "System Hardware"
-msgstr ""
+msgstr "시스템 하드웨어"
 
 msgctxt "#30002"
 msgid "System Region"
-msgstr ""
+msgstr "시스템 지역"
 
 msgctxt "#30003"
 msgid "System Boot ROM"
-msgstr ""
+msgstr "시스템 부트 롬"
 
 msgctxt "#30004"
 msgid "CD System BRAM (Requires Restart)"
-msgstr ""
+msgstr "CD 시스템 BRAM (재시작 필요)"
 
 msgctxt "#30005"
 msgid "CD Backup Cart BRAM (Requires Restart)"
-msgstr ""
+msgstr "CD 백업 카트리지 BRAM (재시작 필요)"
 
 msgctxt "#30006"
 msgid "CD Backup Cart BRAM Size (Requires Restart)"
-msgstr ""
+msgstr "CD 백업 카트리지 BRAM 크기 (재시작 필요)"
 
 msgctxt "#30007"
 msgid "CD add-on (MD mode) (Requires Restart)"
-msgstr ""
+msgstr "CD 애드온 (MD 모드) (재시작 필요)"
 
 msgctxt "#30008"
 msgid "Cartridge Lock-On"
-msgstr ""
+msgstr "카트리지 록온"
 
 msgctxt "#30009"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "코어 제공 화면비"
 
 msgctxt "#30010"
 msgid "Borders"
-msgstr ""
+msgstr "테두리"
 
 msgctxt "#30011"
 msgid "Extra columns to draw in H40 for widescreen"
@@ -75,31 +75,31 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Hide Master System Side Borders"
-msgstr ""
+msgstr "Master System 테두리 숨기기"
 
 msgctxt "#30014"
 msgid "Game Gear Extended Screen"
-msgstr ""
+msgstr "Game Gear 화면 확장"
 
 msgctxt "#30015"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Blargg NTSC 필터"
 
 msgctxt "#30016"
 msgid "LCD Ghosting Filter"
-msgstr ""
+msgstr "LCD 고스팅 필터"
 
 msgctxt "#30017"
 msgid "Interlaced Mode 2 Output"
-msgstr ""
+msgstr "인터레이스 모드 2 출력"
 
 msgctxt "#30018"
 msgid "Frameskip"
-msgstr ""
+msgstr "프레임 스킵"
 
 msgctxt "#30019"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "프레임 스킵 임계값 (%)"
 
 msgctxt "#30020"
 msgid "Master System FM (YM2413)"
@@ -107,7 +107,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Master System FM (YM2413) Core"
-msgstr ""
+msgstr "Master System FM (YM2413) 코어"
 
 msgctxt "#30022"
 msgid "Mega Drive/Genesis FM"
@@ -115,31 +115,31 @@ msgstr ""
 
 msgctxt "#30023"
 msgid "Sound Output"
-msgstr ""
+msgstr "소리 출력"
 
 msgctxt "#30024"
 msgid "Audio Filter"
-msgstr ""
+msgstr "오디오 필터"
 
 msgctxt "#30025"
 msgid "Low-Pass Filter %"
-msgstr ""
+msgstr "로우패스 필터 %"
 
 msgctxt "#30026"
 msgid "PSG Preamp Level"
-msgstr ""
+msgstr "PSG 프리앰프 수준"
 
 msgctxt "#30027"
 msgid "FM Preamp Level"
-msgstr ""
+msgstr "FM 프리앰프 수준"
 
 msgctxt "#30028"
 msgid "CD-DA Volume"
-msgstr ""
+msgstr "CD-DA 음량"
 
 msgctxt "#30029"
 msgid "PCM Volume"
-msgstr ""
+msgstr "PCM 볼륨"
 
 msgctxt "#30030"
 msgid "EQ Low"
@@ -155,27 +155,27 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Light Gun Input"
-msgstr ""
+msgstr "라이트 건 입력"
 
 msgctxt "#30034"
 msgid "Show Light Gun Crosshair"
-msgstr ""
+msgstr "라이트 건 조준선 표시"
 
 msgctxt "#30035"
 msgid "Invert Mouse Y-Axis"
-msgstr ""
+msgstr "마우스 Y축 반전"
 
 msgctxt "#30036"
 msgid "Remove Per-Line Sprite Limit"
-msgstr ""
+msgstr "스캔라인 당 스프라이트 제한 제거"
 
 msgctxt "#30037"
 msgid "Enhanced per-tile vertical scroll"
-msgstr ""
+msgstr "타일 수직 스크롤 향상"
 
 msgctxt "#30038"
 msgid "Enhanced per-tile vertical scroll limit"
-msgstr ""
+msgstr "타일 수직 스크롤 향상 제한"
 
 msgctxt "#30039"
 msgid "CPU Speed"
@@ -183,99 +183,99 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "System Lock-Ups"
-msgstr ""
+msgstr "시스템 중단"
 
 msgctxt "#30041"
 msgid "68K Address Error"
-msgstr ""
+msgstr "68K 주소 오류"
 
 msgctxt "#30043"
 msgid "PSG Tone Channel 0 Volume %"
-msgstr ""
+msgstr "PSG 소리 채널 0 볼륨 %"
 
 msgctxt "#30044"
 msgid "PSG Tone Channel 1 Volume %"
-msgstr ""
+msgstr "PSG 소리 채널 1 볼륨 %"
 
 msgctxt "#30045"
 msgid "PSG Tone Channel 2 Volume %"
-msgstr ""
+msgstr "PSG 소리 채널 2 볼륨 %"
 
 msgctxt "#30046"
 msgid "PSG Noise Channel 3 Volume %"
-msgstr ""
+msgstr "PSG 노이즈 채널 3 볼륨 %"
 
 msgctxt "#30047"
 msgid "Mega Drive/Genesis FM Channel 0 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 0 볼륨 %"
 
 msgctxt "#30048"
 msgid "Mega Drive/Genesis FM Channel 1 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 1 볼륨 %"
 
 msgctxt "#30049"
 msgid "Mega Drive/Genesis FM Channel 2 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 2 볼륨 %"
 
 msgctxt "#30050"
 msgid "Mega Drive/Genesis FM Channel 3 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 3 볼륨 %"
 
 msgctxt "#30051"
 msgid "Mega Drive/Genesis FM Channel 4 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 4 볼륨 %"
 
 msgctxt "#30052"
 msgid "Mega Drive/Genesis FM Channel 5 Volume %"
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 5 볼륨 %"
 
 msgctxt "#30053"
 msgid "Master System FM (YM2413) Channel 0 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) 채널 0 볼륨 %"
 
 msgctxt "#30054"
 msgid "Master System FM (YM2413) Channel 1 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) 채널 1 볼륨 %"
 
 msgctxt "#30055"
 msgid "Master System FM (YM2413) Channel 2 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) 채널 2 볼륨 %"
 
 msgctxt "#30056"
 msgid "Master System FM (YM2413) Channel 3 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) 채널 3 볼륨 %"
 
 msgctxt "#30057"
 msgid "Master System FM (YM2413) Channel 4 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) 채널 4 볼륨 %"
 
 msgctxt "#30058"
 msgid "Master System FM (YM2413) Channel 5 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) 채널 5 볼륨 %"
 
 msgctxt "#30059"
 msgid "Master System FM (YM2413) Channel 6 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) 채널 6 볼륨 %"
 
 msgctxt "#30060"
 msgid "Master System FM (YM2413) Channel 7 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) 채널 7 볼륨 %"
 
 msgctxt "#30061"
 msgid "Master System FM (YM2413) Channel 8 Volume %"
-msgstr ""
+msgstr "Master System FM (YM2413) 채널 8 볼륨 %"
 
 msgctxt "#30062"
 msgid "Force VDP Mode"
-msgstr ""
+msgstr "강제 VDP 모드"
 
 msgctxt "#30063"
 msgid "CD Access Time"
-msgstr ""
+msgstr "CD 접속 시간"
 
 msgctxt "#30064"
 msgid "CD Image Cache"
-msgstr ""
+msgstr "CD 이미지 캐시"
 
 msgctxt "#30065"
 msgid "Extra columns alpha %"
@@ -295,19 +295,19 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "System"
-msgstr ""
+msgstr "시스템"
 
 msgctxt "#30070"
 msgid "Change base hardware selection, region, BIOS and Sega CD/Mega-CD save file settings."
-msgstr ""
+msgstr "기본 하드웨어, 지역, BIOS, Sega CD/Mega-CD 저장 파일 등의 설정을 변경합니다."
 
 msgctxt "#30071"
 msgid "Runs loaded content with a specific emulated console. 'Auto' will select the most appropriate system for the current game."
-msgstr ""
+msgstr "불러온 컨텐츠를 실행할 콘솔을 선택합니다. '자동'으로 설정하면 게임에 가장 적절한 시스템을 자동으로 선택합니다."
 
 msgctxt "#30072"
 msgid "Auto"
-msgstr ""
+msgstr "자동"
 
 msgctxt "#30073"
 msgid "SG-1000"
@@ -319,7 +319,7 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "SG-1000 II + RAM Ext."
-msgstr ""
+msgstr "SG-1000 II + 램확장팩"
 
 msgctxt "#30076"
 msgid "Mark III"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30081"
 msgid "Specify which region the system is from. For consoles other than the Game Gear, 'PAL' is 50 Hz, while 'NTSC' is 60 Hz. Games may run faster or slower than normal if the incorrect region is selected."
-msgstr ""
+msgstr "시스템의 지역을 선택합니다. Game Gear를 제외한 다른 콘솔들에게 'PAL'은 50 Hz, 'NTSC'는 60 Hz입니다. 잘못된 지역을 선택할 경우 게임이 정상 속도보다 빠르거나 느리게 실행될 수 있습니다."
 
 msgctxt "#30082"
 msgid "NTSC-U"
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "#30085"
 msgid "Overrides the VDP mode to force it to run at either NTSC 60Hz or PAL 50Hz, regardless of system region."
-msgstr ""
+msgstr "VDP 모드를 재정의하여 시스템 지역에 관계없이, 60Hz (NTSC) 또는 50Hz (PAL) 에서 강제로 실행되도록 합니다."
 
 msgctxt "#30086"
 msgid "Disabled"
@@ -375,31 +375,31 @@ msgstr ""
 
 msgctxt "#30089"
 msgid "Use official BIOS/bootloader for emulated hardware, if present in RetroArch's system directory. Displays console-specific start-up sequence/animation, then runs loaded content."
-msgstr ""
+msgstr "하드웨어의 공식 BIOS/부트로더를 사용합니다. 해당되는 파일이 RetroArch의 시스템 디렉토리에 존재해야 합니다. 콘솔 특유의 시작 시퀀스/애니메이션을 표시하고 컨텐츠를 실행합니다."
 
 msgctxt "#30090"
 msgid "When running Sega CD/Mega-CD content, specifies whether to share a single save file between all games from a specific region (Per-BIOS) or to create a separate save file for each game (Per-Game). Note that the Sega CD/Mega-CD has limited internal storage, sufficient only for a handful of titles. To avoid running out of space, the 'Per-Game' setting is recommended."
-msgstr ""
+msgstr "Sega CD/Mega-CD 컨텐츠를 실행할 때, 특정 지역의 모든 게임 간에 단일 세이브 파일을 사용할지(BIOS별), 각 게임마다 별도의 세이브 파일을 사용할지(게임별)를 선택합니다. Sega CD/Mega-CD의 내부 저장소는 아주 작아 게임 몇 개의 데이터만 저장할 수 있으므로, 용량 부족 방지를 위해 '게임별' 설정을 사용할 것을 권장합니다."
 
 msgctxt "#30091"
 msgid "Per-BIOS"
-msgstr ""
+msgstr "BIOS별"
 
 msgctxt "#30092"
 msgid "Per-Game"
-msgstr ""
+msgstr "게임별"
 
 msgctxt "#30093"
 msgid "When running Sega CD/Mega-CD content, specifies whether to share a single backup ram cart for all games (Per-Cart) or to create a separate backup ram cart for each game (Per-Game)."
-msgstr ""
+msgstr "Sega CD/Mega-CD 컨텐츠를 실행할 때, 모든 게임 간에 단일 백업 RAM 카트리지를 사용할지(카트리지별), 각 게임마다 별도의 백업 RAM 카트리지를 사용할지(게임별)를 선택합니다."
 
 msgctxt "#30094"
 msgid "Per-Cart"
-msgstr ""
+msgstr "카트리지별"
 
 msgctxt "#30095"
 msgid "Sets the backup ram cart size when running Sega CD/Mega-CD content. Useful when setting the backup ram cart to Per-Game to avoid multiple larger cart sizes."
-msgstr ""
+msgstr "Sega CD/Mega-CD 컨텐츠를 실행할 때 사용할 백업 RAM 카트리지의 크기를 설정합니다. 게임별 백업 RAM 카트리지 사용 시 여러 크기의 카트리지가 생기는 것을 방지하고자 할 때 유용합니다."
 
 msgctxt "#30096"
 msgid "128Kbit"
@@ -427,7 +427,7 @@ msgstr ""
 
 msgctxt "#30102"
 msgid "Specify which add-on to use for CD audio playback with supported Mega Drive/Genesis games."
-msgstr ""
+msgstr "지원되는 Mega Drive/Genesis 게임의 CD 오디오 재생을 위해 사용할 애드온을 선택합니다."
 
 msgctxt "#30103"
 msgid "Sega/Mega CD"
@@ -439,11 +439,11 @@ msgstr ""
 
 msgctxt "#30105"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "#30106"
 msgid "Lock-On Technology is a Mega Drive/Genesis feature that allowed an older game to connect to the pass-through port of a special cartridge for extended or altered gameplay. This option specifies which type of special 'lock-on' cartridge to emulate. A corresponding bios file must be present in RetroArch's system directory."
-msgstr ""
+msgstr "록온 기술은 특별한 카트리지의 패스스루 포트에 다른 게임을 연결해 추가적인 게임플레이를 구현하는 Mega Drive/Genesis의 기능입니다. 이 옵션은 어떤 '락온' 카트리지를 사용할지 설정합니다. 해당되는 BIOS 파일이 RetroArch의 시스템 디렉토리에 존재해야 합니다."
 
 msgctxt "#30107"
 msgid "Game Genie"
@@ -459,31 +459,31 @@ msgstr ""
 
 msgctxt "#30110"
 msgid "Video"
-msgstr ""
+msgstr "비디오"
 
 msgctxt "#30111"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "화면비, 잘라내기, 비디오 필터, 프레임 스킵 등의 설정을 변경합니다."
 
 msgctxt "#30112"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "선호하는 콘텐츠 화면비를 선택합니다. RetroArch의 비디오 설정에서 화면비가 'Core provided'로 설정되어 있어야 적용됩니다."
 
 msgctxt "#30113"
 msgid "Enable this to display the overscan regions at the top/bottom and/or left/right of the screen. These would normally be hidden by the bezel around the edge of a standard-definition television."
-msgstr ""
+msgstr "이 옵션을 활성화하면 화면의 위/아래 또는 좌/우 오버스캔 지역을 표시합니다. 이 지역은 일반적으로 텔레비전의 베젤에 가려져 표시되지 않습니다."
 
 msgctxt "#30114"
 msgid "Top/Bottom"
-msgstr ""
+msgstr "위/아래"
 
 msgctxt "#30115"
 msgid "Left/Right"
-msgstr ""
+msgstr "좌/우"
 
 msgctxt "#30116"
 msgid "Full"
-msgstr ""
+msgstr "모두"
 
 msgctxt "#30117"
 msgid "Set the amount of extra colums to draw for widescreen"
@@ -499,35 +499,35 @@ msgstr ""
 
 msgctxt "#30120"
 msgid "Cuts off 8 pixels from either the left side of the screen, or both left and right sides when running Master System games."
-msgstr ""
+msgstr "Master System 게임을 실행할 때 화면을 왼쪽 또는 왼쪽과 오른쪽에서 8픽셀씩 잘라냅니다."
 
 msgctxt "#30121"
 msgid "Left Border Only"
-msgstr ""
+msgstr "왼쪽만"
 
 msgctxt "#30122"
 msgid "Left & Right Borders"
-msgstr ""
+msgstr "왼쪽 및 오른쪽"
 
 msgctxt "#30123"
 msgid "Forces Game Gear titles to run in SMS mode, with an increased resolution of 256x192. May show additional content, but typically displays a border of corrupt/unwanted image data."
-msgstr ""
+msgstr "Game Gear 게임을 강제로 256x192의 확장된 해상도를 가지는 SMS 모드로 실행합니다. 더 많은 컨텐츠를 보여줄 수도 있지만, 일반적으로 망가진 이미지 데이터로 이루어진 테두리가 표시됩니다."
 
 msgctxt "#30124"
 msgid "Apply a video filter to mimic various NTSC TV signals."
-msgstr ""
+msgstr "다양한 NTSC TV 신호를 흉내내는 비디오 필터를 적용합니다."
 
 msgctxt "#30125"
 msgid "Monochrome"
-msgstr ""
+msgstr "흑백"
 
 msgctxt "#30126"
 msgid "Composite"
-msgstr ""
+msgstr "컴포지트"
 
 msgctxt "#30127"
 msgid "S-Video"
-msgstr ""
+msgstr "S-비디오"
 
 msgctxt "#30128"
 msgid "RGB"
@@ -535,47 +535,47 @@ msgstr ""
 
 msgctxt "#30129"
 msgid "Apply an image 'ghosting' filter to mimic the display characteristics of the Game Gear and Genesis Nomad LCD panels."
-msgstr ""
+msgstr "Game Gear 또는 Genesis Nomad의 LCD 패널에서 나타나는 이미지 '고스팅' 현상을 흉내내는 비디오 필터를 적용합니다."
 
 msgctxt "#30130"
 msgid "Interlaced Mode 2 allows the Mega Drive/Genesis to output a double height (high resolution) 320x448 image by drawing alternate scan lines each frame (this is used by Sonic the Hedgehog 2 and Combat Cars multiplayer modes). 'Double Field' mimics original hardware, producing a sharp image with flickering/interlacing artifacts. 'Single Field' applies a deinterlacing filter, which stabilizes the image but causes mild blurring."
-msgstr ""
+msgstr "인터레이스 모드 2는 Mega Drive/Genesis가 매 프레임마다 다른 스캔라인을 사용하여 기존 해상도의 2배인 320x448의 고해상도를 사용할 수 있게 합니다. 이 기술은 Sonic the Hedgehog 2와 Combat Cars의 멀티플레이어 모드에 사용되었습니다. '이중 필드'는 원본 하드웨어의 동작을 따라하여 날카롭지만 깜빡이며 지저분한 이미지를 표시합니다. '단일 필드'는 디인터레이싱 필터를 적용하여 안정적이지만 다소 부드러운 이미지를 표시합니다."
 
 msgctxt "#30131"
 msgid "Single Field"
-msgstr ""
+msgstr "단일 필드"
 
 msgctxt "#30132"
 msgid "Double Field"
-msgstr ""
+msgstr "이중 필드"
 
 msgctxt "#30133"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "오디오 버퍼 언더런(소리깨짐) 을 줄이기 위해 프레임 건너뛰기를 합니다. 시각적인 부드러움을 포기하는 대신 성능이 향상됩니다. '자동'은 프론트엔드의 추천값으로 실행되고 '사용자 설정'은 '프레임 스킵 임계값(%)' 설정을 이용해 실행됩니다."
 
 msgctxt "#30134"
 msgid "Manual"
-msgstr ""
+msgstr "수동"
 
 msgctxt "#30135"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "'프레임 건너뛰기'가 '사용자 설정'일 경우 건너뛸 프레임에 대한 오디오 버퍼 점유 임계점 (퍼센트) 을 설정하게됩니다. 값이 높을 수록 프레임은 떨어지고 그 대신 소리 깨짐 현상은 줄어들게 됩니다."
 
 msgctxt "#30136"
 msgid "Audio"
-msgstr ""
+msgstr "오디오"
 
 msgctxt "#30137"
 msgid "Change audio device settings."
-msgstr ""
+msgstr "오디오 장치 설정을 변경합니다."
 
 msgctxt "#30138"
 msgid "Enable emulation of the FM Sound Unit used by certain Sega Mark III/Master System games for enhanced audio output."
-msgstr ""
+msgstr "세가 Mark III/Master System에 사용된 FM 사운드 유닛의 에뮬레이션을 활성화하여 오디오 출력을 향상시킵니다."
 
 msgctxt "#30139"
 msgid "Select method used to emulate the FM Sound Unit of the Sega Mark III/Master System. 'MAME' option is fast, and runs full speed on most systems. 'Nuked' option is cycle accurate, very high quality, and has substantial CPU requirements."
-msgstr ""
+msgstr "세가 Mark III/Master System의 FM 사운드 유닛을 에뮬레이트할 방식을 선택합니다. 'MAME' 옵션은 빠르고 거의 모든 시스템에서 풀 스피드로 구동됩니다. 'Nuked' 옵션은 사이클 수준 정확도를 가지며, 매우 높은 품질을 제공하지만 강력한 CPU를 필요로 합니다."
 
 msgctxt "#30140"
 msgid "MAME"
@@ -587,7 +587,7 @@ msgstr ""
 
 msgctxt "#30142"
 msgid "Select method used to emulate the FM synthesizer (main sound generator) of the Mega Drive/Genesis. 'MAME' options are fast, and run full speed on most systems. 'Nuked' options are cycle accurate, very high quality, and have substantial CPU requirements. The YM2612 chip is used by the original Model 1 Mega Drive/Genesis. The YM3438 is used in later Mega Drive/Genesis revisions."
-msgstr ""
+msgstr "Mega Drive/Genesis의 FM 신시사이저(주 사운드 생성기)를 에뮬레이트할 방식을 선택합니다. 'MAME' 옵션은 빠르고 거의 모든 시스템에서 풀 스피드로 구동됩니다. 'Nuked' 옵션은 사이클 수준 정확도를 가지며, 매우 높은 품질을 제공하지만 강력한 CPU를 필요로 합니다. YM2612 칩은 원조 모델 1 Mega Drive/Genesis에서 사용된 칩이며 YM3438은 후기 Mega Drive/Genesis 리비전에서 사용된 칩입니다."
 
 msgctxt "#30143"
 msgid "MAME (YM2612)"
@@ -599,7 +599,7 @@ msgstr ""
 
 msgctxt "#30145"
 msgid "MAME (Enhanced YM3438)"
-msgstr ""
+msgstr "MAME (개선된 YM3438)"
 
 msgctxt "#30146"
 msgid "Nuked (YM2612)"
@@ -659,43 +659,43 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "Select stereo or mono sound playback."
-msgstr ""
+msgstr "스테레오/모노 소리 재생을 선택합니다."
 
 msgctxt "#30161"
 msgid "Stereo"
-msgstr ""
+msgstr "스테레오"
 
 msgctxt "#30162"
 msgid "Mono"
-msgstr ""
+msgstr "모노"
 
 msgctxt "#30163"
 msgid "Enable a low pass audio filter to better simulate the characteristic sound of a Model 1 Mega Drive/Genesis."
-msgstr ""
+msgstr "로우패스 오디오 필터를 사용하여 모델 1 Mega Drive/Genesis의 소리 특징을 더욱 정확히 구현합니다."
 
 msgctxt "#30164"
 msgid "Low-Pass"
-msgstr ""
+msgstr "로우패스"
 
 msgctxt "#30165"
 msgid "Specify the cut-off frequency of the audio low pass filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "오디오 로우패스 필터의 컷오프 주파수를 지정합니다. 높은 값은 더 넓은 범위의 고주파음을 차단하여 필터의 '강도'를 높입니다."
 
 msgctxt "#30166"
 msgid "Set the audio preamplifier level of the emulated SN76496 4-channel Programmable Sound Generator found in the SG-1000, Sega Mark III, Master System, Game Gear and Mega Drive/Genesis."
-msgstr ""
+msgstr "SG-1000, Sega Mark III, Master System, Game Gear, Mega Drive/Genesis에서 사용되는 SN76496 4채널 PSG의 에뮬레이션의 프리앰프 수준을 설정합니다."
 
 msgctxt "#30167"
 msgid "Set the audio preamplifier level of the emulated Mega Drive/Genesis FM sound synthesizer or Sega Mark III/Master System FM Sound Unit."
-msgstr ""
+msgstr "Mega Drive/Genesis FM 신시사이저 및 Sega Mark III/Master System FM 사운드 유닛의 에뮬레이션의 프리앰프 수준을 설정합니다."
 
 msgctxt "#30168"
 msgid "Adjust the mixing volume of the emulated CD audio playback output."
-msgstr ""
+msgstr "에뮬레이트된 CD 오디오 출력의 믹싱 볼륨을 조절합니다."
 
 msgctxt "#30169"
 msgid "Adjust the mixing volume of the emulated Sega CD/Mega-CD RF5C164 PCM sound generator output."
-msgstr ""
+msgstr "에뮬레이트된 Sega CD/Mega-CD RF5C164 PCM 사운드 발생기 출력의 믹싱 볼륨을 조절합니다."
 
 msgctxt "#30170"
 msgid "Adjust the low range band of the internal audio equalizer."
@@ -711,51 +711,51 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Input"
-msgstr ""
+msgstr "입력"
 
 msgctxt "#30174"
 msgid "Change light gun and/or mouse input settings."
-msgstr ""
+msgstr "라이트 건 및 마우스 설정을 변경합니다."
 
 msgctxt "#30175"
 msgid "Use a mouse-controlled 'Light Gun' or 'Touchscreen' input."
-msgstr ""
+msgstr "마우스로 조종되는 '라이트 건' 또는 '터치스크린' 입력을 사용합니다."
 
 msgctxt "#30176"
 msgid "Light Gun"
-msgstr ""
+msgstr "라이트 건"
 
 msgctxt "#30177"
 msgid "Touchscreen"
-msgstr ""
+msgstr "터치스크린"
 
 msgctxt "#30178"
 msgid "Display light gun crosshairs when using the MD Menacer, MD Justifiers and MS Light Phaser input device types."
-msgstr ""
+msgstr "MD Menacer, MD Justifiers, MS Light Phaser 등의 입력 장치를 사용할 때 라이트 건 조준선을 표시합니다."
 
 msgctxt "#30179"
 msgid "Inverts the Y-axis of the MD Mouse input device type."
-msgstr ""
+msgstr "MD Mouse 등의 입력 장치를 사용할 때 Y축 입력을 반전시킵니다."
 
 msgctxt "#30180"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "에뮬레이션 핵"
 
 msgctxt "#30181"
 msgid "Change processor overclocking and emulation accuracy settings that affect low-level performance and compatibility."
-msgstr ""
+msgstr "성능과 호환성에 영향을 끼치는 프로세서 오버클러킹 및 에뮬레이션 정확도 설정 등을 변경합니다."
 
 msgctxt "#30182"
 msgid "Removes the original sprite-per-scanline hardware limit. This reduces flickering but can cause visual glitches, as some games exploit the hardware limit to generate special effects."
-msgstr ""
+msgstr "원본 하드웨어에 존재하는 스캔라인 당 스프라이트 제한을 제거합니다. 깜빡임을 줄여주지만 이러한 제한을 활용해 특별한 효과를 만들어내는 게임에서는 그래픽 오류가 일어날 수 있습니다."
 
 msgctxt "#30183"
 msgid "Allows each individual cell to be scrolled vertically, instead of 16px 2-cell, by averaging out with the vscroll value of the neighbouring cell. This hack only applies to few games that use 2-cell vertical scroll mode."
-msgstr ""
+msgstr "16픽셀 2셀 대신 인접한 셀의 세로 스크롤 값을 평균내어 각각의 개별 셀이 수직 스크롤 되도록 해줍니다. 이 핵은 2셀 세로 스크롤 모드를 사용하는 소수의 게임에만 적용됩니다."
 
 msgctxt "#30184"
 msgid "Only when Enhanced per-tile vertical scroll is enabled. Adjusts the limit of the vertical scroll enhancement. When the vscroll difference between neighbouring tiles is bigger than this limit, the enhancement is disabled."
-msgstr ""
+msgstr "타일별 세로 스크롤 향상을 활성화한 경우에만 해당합니다. 세로 스크롤 향상 한도를 조정합니다. 인접한 타일 간의 세로 스크롤 차이가 이 제한보다 크면 향상 기능이 비활성화됩니다."
 
 msgctxt "#30185"
 msgid "Overclock the emulated CPU. Can reduce slowdown, but may cause glitches."
@@ -831,111 +831,111 @@ msgstr ""
 
 msgctxt "#30203"
 msgid "Emulate system lock-ups that occur on real hardware when performing illegal address access. This should only be disabled when playing certain demos and homebrew that rely on illegal behavior for correct operation."
-msgstr ""
+msgstr "실제 하드웨어에서 잘못된 주소에 접근 시 발생하는 시스템 중단을 구현합니다. 이러한 미정의 행동을 올바르게 활용하는 일부 데모 또는 홈브루를 구동할 때만 비활성화되어야 합니다."
 
 msgctxt "#30204"
 msgid "The Mega Drive/Genesis main CPU (Motorola 68000) generates an Address Error exception (crash) when attempting to perform unaligned memory access. Enabling this will simulate this behavior. It should only be disabled when playing ROM hacks, since these are typically developed using less accurate emulators and may rely on invalid RAM access for correct operation."
-msgstr ""
+msgstr "Mega Drive/Genesis의 주 CPU(Motorola 68000)는 정렬되지 않은 메모리 접근을 수행할 경우 주소 오류 예외(크래시)를 발생시킵니다. 이 옵션을 활성화하면 이 동작이 구현됩니다. 부정확한 에뮬레이터에서 개발되어 잘못된 메모리 접근을 활용하는 일부 ROM 핵을 구동할 때만 비활성화되어야 합니다."
 
 msgctxt "#30205"
 msgid "Simulate original CD hardware latency when initiating a read or seeking to a specific location on loaded disc. This is required by a few CD games that crash if CD data is available too soon and also fixes CD audio desync issues in some games. Disabling this can be useful with MSU-MD games as it makes CD audio tracks loops more seamless."
-msgstr ""
+msgstr "읽기를 시작하거나 불러온 디스크의 특정 위치를 찾을 때 원본 CD 하드웨어 대기 시간을 시뮬레이션합니다. CD 데이터를 너무 빨리 불러와서 충돌이 발생하는 일부 CD 게임에 필요하며 또한 CD 오디오 비동기화 문제도 수정합니다. 이 기능을 비활성화하면 CD 오디오 트랙이 더 매끄럽게 반복되므로 MSU-MD 게임에 유용할 수 있습니다."
 
 msgctxt "#30206"
 msgid "Load CD image to memory on startup. CHD supported only. Restart Required."
-msgstr ""
+msgstr "시작 시 CD 이미지를 메모리에 로드합니다. CHD만 지원됩니다. 다시 시작이 필요합니다."
 
 msgctxt "#30207"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "고급 채널 볼륨 설정"
 
 msgctxt "#30208"
 msgid "Change the volume of individual hardware audio channels."
-msgstr ""
+msgstr "개별 하드웨어 오디오 채널의 볼륨을 변경합니다."
 
 msgctxt "#30209"
 msgid "Show Advanced Audio Volume Settings (Reopen menu)"
-msgstr ""
+msgstr "고급 오디오 볼륨 설정 표시 (메뉴 다시 열기 필요)"
 
 msgctxt "#30210"
 msgid "Enable configuration of low-level audio channel parameters. NOTE: Quick Menu must be toggled for this setting to take effect."
-msgstr ""
+msgstr "저수준 오디오 채널 변수 설정을 활성화합니다. 주의: 이 설정은 빠른 메뉴를 껐다 켜야 반영됩니다."
 
 msgctxt "#30211"
 msgid "Reduce the volume of the PSG Tone Channel 0."
-msgstr ""
+msgstr "PSG 소리 채널 0의 볼륨을 감소시킵니다."
 
 msgctxt "#30212"
 msgid "Reduce the volume of the PSG Tone Channel 1."
-msgstr ""
+msgstr "PSG 소리 채널 1의 볼륨을 감소시킵니다."
 
 msgctxt "#30213"
 msgid "Reduce the volume of the PSG Tone Channel 2."
-msgstr ""
+msgstr "PSG 소리 채널 2의 볼륨을 감소시킵니다."
 
 msgctxt "#30214"
 msgid "Reduce the volume of the PSG Noise Channel 3."
-msgstr ""
+msgstr "PSG 노이즈 채널 3의 볼륨을 감소시킵니다."
 
 msgctxt "#30215"
 msgid "Reduce the volume of the Mega Drive/Genesis FM Channel 0. Only works with MAME FM emulators."
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 0의 볼륨을 감소시킵니다. MAME FM 에뮬레이터에만 적용됩니다."
 
 msgctxt "#30216"
 msgid "Reduce the volume of the Mega Drive/Genesis FM Channel 1. Only works with MAME FM emulators."
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 1의 볼륨을 감소시킵니다. MAME FM 에뮬레이터에만 적용됩니다."
 
 msgctxt "#30217"
 msgid "Reduce the volume of the Mega Drive/Genesis FM Channel 2. Only works with MAME FM emulators."
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 2의 볼륨을 감소시킵니다. MAME FM 에뮬레이터에만 적용됩니다."
 
 msgctxt "#30218"
 msgid "Reduce the volume of the Mega Drive/Genesis FM Channel 3. Only works with MAME FM emulators."
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 3의 볼륨을 감소시킵니다. MAME FM 에뮬레이터에만 적용됩니다."
 
 msgctxt "#30219"
 msgid "Reduce the volume of the Mega Drive/Genesis FM Channel 4. Only works with MAME FM emulators."
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 4의 볼륨을 감소시킵니다. MAME FM 에뮬레이터에만 적용됩니다."
 
 msgctxt "#30220"
 msgid "Reduce the volume of the Mega Drive/Genesis FM Channel 5. Only works with MAME FM emulators."
-msgstr ""
+msgstr "Mega Drive/Genesis FM 채널 5의 볼륨을 감소시킵니다. MAME FM 에뮬레이터에만 적용됩니다."
 
 msgctxt "#30221"
 msgid "Reduce the volume of the Master System FM Channel 0."
-msgstr ""
+msgstr "Master System FM 채널 0의 볼륨을 감소시킵니다."
 
 msgctxt "#30222"
 msgid "Reduce the volume of the Master System FM Channel 1."
-msgstr ""
+msgstr "Master System FM 채널 1의 볼륨을 감소시킵니다."
 
 msgctxt "#30223"
 msgid "Reduce the volume of the Master System FM Channel 2."
-msgstr ""
+msgstr "Master System FM 채널 2의 볼륨을 감소시킵니다."
 
 msgctxt "#30224"
 msgid "Reduce the volume of the Master System FM Channel 3."
-msgstr ""
+msgstr "Master System FM 채널 3의 볼륨을 감소시킵니다."
 
 msgctxt "#30225"
 msgid "Reduce the volume of the Master System FM Channel 4."
-msgstr ""
+msgstr "Master System FM 채널 4의 볼륨을 감소시킵니다."
 
 msgctxt "#30226"
 msgid "Reduce the volume of the Master System FM Channel 5."
-msgstr ""
+msgstr "Master System FM 채널 5의 볼륨을 감소시킵니다."
 
 msgctxt "#30227"
 msgid "Reduce the volume of the Master System FM Channel 6."
-msgstr ""
+msgstr "Master System FM 채널 6의 볼륨을 감소시킵니다."
 
 msgctxt "#30228"
 msgid "Reduce the volume of the Master System FM Channel 7."
-msgstr ""
+msgstr "Master System FM 채널 7의 볼륨을 감소시킵니다."
 
 msgctxt "#30229"
 msgid "Reduce the volume of the Master System FM Channel 8."
-msgstr ""
+msgstr "Master System FM 채널 8의 볼륨을 감소시킵니다."
 
 msgctxt "#30230"
 msgid "NTSC PAR"

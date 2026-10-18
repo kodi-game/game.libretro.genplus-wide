@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "System Hardware"
-msgstr ""
+msgstr "Hardware del sistema"
 
 msgctxt "#30002"
 msgid "System Region"
@@ -55,15 +55,15 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Cartridge Lock-On"
-msgstr ""
+msgstr "Lock-On de cartuchos"
 
 msgctxt "#30009"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Proporción d'aspeutu fornida pol nucleu"
 
 msgctxt "#30010"
 msgid "Borders"
-msgstr ""
+msgstr "Berbesos"
 
 msgctxt "#30011"
 msgid "Extra columns to draw in H40 for widescreen"
@@ -111,11 +111,11 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "Mega Drive/Genesis FM"
-msgstr ""
+msgstr "FM de Mega Drive/Genesis"
 
 msgctxt "#30023"
 msgid "Sound Output"
-msgstr ""
+msgstr "Salida del soníu"
 
 msgctxt "#30024"
 msgid "Audio Filter"
@@ -295,7 +295,7 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 msgctxt "#30070"
 msgid "Change base hardware selection, region, BIOS and Sega CD/Mega-CD save file settings."
@@ -443,7 +443,7 @@ msgstr ""
 
 msgctxt "#30106"
 msgid "Lock-On Technology is a Mega Drive/Genesis feature that allowed an older game to connect to the pass-through port of a special cartridge for extended or altered gameplay. This option specifies which type of special 'lock-on' cartridge to emulate. A corresponding bios file must be present in RetroArch's system directory."
-msgstr ""
+msgstr "La teunoloxía Lock-On ye una carauterística de Mega Drive que permitía a los xuegos conectase al puertu d'interconexón d'un cartuchu especial p'aumenta o alteriar el so conteníu. Esta opción especifica qué tipu de cartuchu Lock-On especial hai qu'emular. Los ficheros de BIOS correspondientes han tar nel direutoriu «system» de RetroArch."
 
 msgctxt "#30107"
 msgid "Game Genie"
@@ -459,7 +459,7 @@ msgstr ""
 
 msgctxt "#30110"
 msgid "Video"
-msgstr ""
+msgstr "Videu"
 
 msgctxt "#30111"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -543,11 +543,11 @@ msgstr ""
 
 msgctxt "#30131"
 msgid "Single Field"
-msgstr ""
+msgstr "Campu únicu"
 
 msgctxt "#30132"
 msgid "Double Field"
-msgstr ""
+msgstr "Campu doble"
 
 msgctxt "#30133"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
@@ -563,7 +563,7 @@ msgstr ""
 
 msgctxt "#30136"
 msgid "Audio"
-msgstr ""
+msgstr "Audiu"
 
 msgctxt "#30137"
 msgid "Change audio device settings."
@@ -663,11 +663,11 @@ msgstr ""
 
 msgctxt "#30161"
 msgid "Stereo"
-msgstr ""
+msgstr "Estéreu"
 
 msgctxt "#30162"
 msgid "Mono"
-msgstr ""
+msgstr "Monu"
 
 msgctxt "#30163"
 msgid "Enable a low pass audio filter to better simulate the characteristic sound of a Model 1 Mega Drive/Genesis."
@@ -711,7 +711,7 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgctxt "#30174"
 msgid "Change light gun and/or mouse input settings."
@@ -727,7 +727,7 @@ msgstr ""
 
 msgctxt "#30177"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Pantalla táctil"
 
 msgctxt "#30178"
 msgid "Display light gun crosshairs when using the MD Menacer, MD Justifiers and MS Light Phaser input device types."
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks de la emulación"
 
 msgctxt "#30181"
 msgid "Change processor overclocking and emulation accuracy settings that affect low-level performance and compatibility."
@@ -847,7 +847,7 @@ msgstr ""
 
 msgctxt "#30207"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Configuración avanzada del volume de les canales"
 
 msgctxt "#30208"
 msgid "Change the volume of individual hardware audio channels."

@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "System Hardware"
-msgstr ""
+msgstr "Systémový hardvér"
 
 msgctxt "#30002"
 msgid "System Region"
-msgstr ""
+msgstr "Systémový región"
 
 msgctxt "#30003"
 msgid "System Boot ROM"
@@ -59,11 +59,11 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Jadrom poskytnutý pomer strán"
 
 msgctxt "#30010"
 msgid "Borders"
-msgstr ""
+msgstr "Okraje"
 
 msgctxt "#30011"
 msgid "Extra columns to draw in H40 for widescreen"
@@ -95,11 +95,11 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Frameskip"
-msgstr ""
+msgstr "Preskočenie snímky"
 
 msgctxt "#30019"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Prah preskočenia snímky (%)"
 
 msgctxt "#30020"
 msgid "Master System FM (YM2413)"
@@ -115,11 +115,11 @@ msgstr ""
 
 msgctxt "#30023"
 msgid "Sound Output"
-msgstr ""
+msgstr "Zvukový výstup"
 
 msgctxt "#30024"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Zvukový filter"
 
 msgctxt "#30025"
 msgid "Low-Pass Filter %"
@@ -135,11 +135,11 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "CD-DA Volume"
-msgstr ""
+msgstr "CD-DA hlasitosť"
 
 msgctxt "#30029"
 msgid "PCM Volume"
-msgstr ""
+msgstr "PCM hlasitosť"
 
 msgctxt "#30030"
 msgid "EQ Low"
@@ -187,7 +187,7 @@ msgstr ""
 
 msgctxt "#30041"
 msgid "68K Address Error"
-msgstr ""
+msgstr "Chyba adresy 68K"
 
 msgctxt "#30043"
 msgid "PSG Tone Channel 0 Volume %"
@@ -295,7 +295,7 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "System"
-msgstr ""
+msgstr "Systém"
 
 msgctxt "#30070"
 msgid "Change base hardware selection, region, BIOS and Sega CD/Mega-CD save file settings."
@@ -367,11 +367,11 @@ msgstr ""
 
 msgctxt "#30087"
 msgid "NTSC (60Hz)"
-msgstr ""
+msgstr "60 Hz"
 
 msgctxt "#30088"
 msgid "PAL (50Hz)"
-msgstr ""
+msgstr "50 Hz"
 
 msgctxt "#30089"
 msgid "Use official BIOS/bootloader for emulated hardware, if present in RetroArch's system directory. Displays console-specific start-up sequence/animation, then runs loaded content."
@@ -383,11 +383,11 @@ msgstr ""
 
 msgctxt "#30091"
 msgid "Per-BIOS"
-msgstr ""
+msgstr "Podľa BIOSu"
 
 msgctxt "#30092"
 msgid "Per-Game"
-msgstr ""
+msgstr "Podľa hry"
 
 msgctxt "#30093"
 msgid "When running Sega CD/Mega-CD content, specifies whether to share a single backup ram cart for all games (Per-Cart) or to create a separate backup ram cart for each game (Per-Game)."
@@ -403,27 +403,27 @@ msgstr ""
 
 msgctxt "#30096"
 msgid "128Kbit"
-msgstr ""
+msgstr "128 Kbit"
 
 msgctxt "#30097"
 msgid "256Kbit"
-msgstr ""
+msgstr "256 Kbit"
 
 msgctxt "#30098"
 msgid "512Kbit"
-msgstr ""
+msgstr "512 Kbit"
 
 msgctxt "#30099"
 msgid "1Mbit"
-msgstr ""
+msgstr "1 Mbit"
 
 msgctxt "#30100"
 msgid "2Mbit"
-msgstr ""
+msgstr "2 Mbit"
 
 msgctxt "#30101"
 msgid "4Mbit"
-msgstr ""
+msgstr "4 Mbit"
 
 msgctxt "#30102"
 msgid "Specify which add-on to use for CD audio playback with supported Mega Drive/Genesis games."
@@ -439,7 +439,7 @@ msgstr ""
 
 msgctxt "#30105"
 msgid "None"
-msgstr ""
+msgstr "Žiadne"
 
 msgctxt "#30106"
 msgid "Lock-On Technology is a Mega Drive/Genesis feature that allowed an older game to connect to the pass-through port of a special cartridge for extended or altered gameplay. This option specifies which type of special 'lock-on' cartridge to emulate. A corresponding bios file must be present in RetroArch's system directory."
@@ -475,15 +475,15 @@ msgstr ""
 
 msgctxt "#30114"
 msgid "Top/Bottom"
-msgstr ""
+msgstr "Hore/dolu"
 
 msgctxt "#30115"
 msgid "Left/Right"
-msgstr ""
+msgstr "Vľavo/vpravo"
 
 msgctxt "#30116"
 msgid "Full"
-msgstr ""
+msgstr "Plné"
 
 msgctxt "#30117"
 msgid "Set the amount of extra colums to draw for widescreen"
@@ -519,11 +519,11 @@ msgstr ""
 
 msgctxt "#30125"
 msgid "Monochrome"
-msgstr ""
+msgstr "Čiernobiele"
 
 msgctxt "#30126"
 msgid "Composite"
-msgstr ""
+msgstr "Kompozit"
 
 msgctxt "#30127"
 msgid "S-Video"
@@ -555,15 +555,15 @@ msgstr ""
 
 msgctxt "#30134"
 msgid "Manual"
-msgstr ""
+msgstr "Ručne"
 
 msgctxt "#30135"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Ak je 'Preskočenie snímkov' nastavené na 'Ručne', určuje obsadenosť zvukového zásobníka (v percentách) pod ktorou budú snímky preskočené. Vyššie hodnoty znižujú riziko praskania za cenu zahodenia snímkov častejšie."
 
 msgctxt "#30136"
 msgid "Audio"
-msgstr ""
+msgstr "Zvuk"
 
 msgctxt "#30137"
 msgid "Change audio device settings."
@@ -599,7 +599,7 @@ msgstr ""
 
 msgctxt "#30145"
 msgid "MAME (Enhanced YM3438)"
-msgstr ""
+msgstr "MAME (rozšírené YM3438)"
 
 msgctxt "#30146"
 msgid "Nuked (YM2612)"
@@ -711,7 +711,7 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Input"
-msgstr ""
+msgstr "Vstup"
 
 msgctxt "#30174"
 msgid "Change light gun and/or mouse input settings."
@@ -723,11 +723,11 @@ msgstr ""
 
 msgctxt "#30176"
 msgid "Light Gun"
-msgstr ""
+msgstr "Svetelná pištoľ"
 
 msgctxt "#30177"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Dotykový displej"
 
 msgctxt "#30178"
 msgid "Display light gun crosshairs when using the MD Menacer, MD Justifiers and MS Light Phaser input device types."
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulačné hacky"
 
 msgctxt "#30181"
 msgid "Change processor overclocking and emulation accuracy settings that affect low-level performance and compatibility."

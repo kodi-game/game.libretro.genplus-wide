@@ -39,7 +39,7 @@ msgstr "Systemets uppstarts-ROM"
 
 msgctxt "#30004"
 msgid "CD System BRAM (Requires Restart)"
-msgstr "CD-system BRAM (kräver omstart)"
+msgstr "CD-System BRAM (Kräver omstart)"
 
 #, fuzzy
 msgctxt "#30005"
@@ -63,7 +63,7 @@ msgstr "Patronlåsning"
 #, fuzzy
 msgctxt "#30009"
 msgid "Core-Provided Aspect Ratio"
-msgstr "Aspect Ratio som tillhandahålls av Core"
+msgstr "Kärnspecifikt bildformat"
 
 msgctxt "#30010"
 msgid "Borders"
@@ -96,7 +96,7 @@ msgstr "Blargg NTSC-filter"
 #, fuzzy
 msgctxt "#30016"
 msgid "LCD Ghosting Filter"
-msgstr "LCD-SPÖKEFFEKTFILTER"
+msgstr "LCD-spökfilter"
 
 #, fuzzy
 msgctxt "#30017"
@@ -109,7 +109,7 @@ msgstr "Hoppa över bildrutor"
 
 msgctxt "#30019"
 msgid "Frameskip Threshold (%)"
-msgstr "Tröskelvärde för bildöverhoppning (%)"
+msgstr "Frameskip Tröskelvärde (%)"
 
 msgctxt "#30020"
 msgid "Master System FM (YM2413)"
@@ -182,7 +182,7 @@ msgstr "Invertera musens Y-axel"
 #, fuzzy
 msgctxt "#30036"
 msgid "Remove Per-Line Sprite Limit"
-msgstr "Ta bort spritebegränsning per rad"
+msgstr "Ta bort blockfigursgräns per rad"
 
 #, fuzzy
 msgctxt "#30037"
@@ -475,7 +475,7 @@ msgstr ""
 
 msgctxt "#30105"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgctxt "#30106"
 msgid "Lock-On Technology is a Mega Drive/Genesis feature that allowed an older game to connect to the pass-through port of a special cartridge for extended or altered gameplay. This option specifies which type of special 'lock-on' cartridge to emulate. A corresponding bios file must be present in RetroArch's system directory."
@@ -499,11 +499,11 @@ msgstr ""
 
 msgctxt "#30111"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "Ändra bildformat, beskärning, videofilter och inställningar för bildruteskippning."
 
 msgctxt "#30112"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Välj det föredragna bildformatet för Innehållet. Detta kommer endast att tillämpas när RetroArchs bildformat är inställt på \"Kärnspecifikt\" i Video-inställningarna."
 
 msgctxt "#30113"
 msgid "Enable this to display the overscan regions at the top/bottom and/or left/right of the screen. These would normally be hidden by the bezel around the edge of a standard-definition television."
@@ -515,7 +515,7 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "Left/Right"
-msgstr ""
+msgstr "Vänster/Höger"
 
 msgctxt "#30116"
 msgid "Full"
@@ -555,11 +555,11 @@ msgstr ""
 
 msgctxt "#30125"
 msgid "Monochrome"
-msgstr ""
+msgstr "Monokrom"
 
 msgctxt "#30126"
 msgid "Composite"
-msgstr ""
+msgstr "Komposit"
 
 msgctxt "#30127"
 msgid "S-Video"
@@ -587,19 +587,19 @@ msgstr ""
 
 msgctxt "#30133"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Hoppa över bildrutor för att undvika ljudbuffert-underkörning (sprakande). Förbättrar prestanda på bekostnad av visuell jämnhet. \"Automatiskt\" hoppar över bildrutor när det rekommenderas av gränssnittet. \"Manuell\" använder inställningen \"Bildrutetröskel (%)\" för att hoppa över bildrutor."
 
 msgctxt "#30134"
 msgid "Manual"
-msgstr ""
+msgstr "Manuell"
 
 msgctxt "#30135"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "När 'Frameskip' är satt till 'Manuell', ange ljudbuffertens tröskel (i procent) under vilka ramar som kommer att hoppas över. Högre värden minskar risken för hackigt ljud genom att bildrutor tappas oftare."
 
 msgctxt "#30136"
 msgid "Audio"
-msgstr ""
+msgstr "Ljud"
 
 msgctxt "#30137"
 msgid "Change audio device settings."
@@ -711,7 +711,7 @@ msgstr ""
 
 msgctxt "#30164"
 msgid "Low-Pass"
-msgstr ""
+msgstr "Lågpass"
 
 msgctxt "#30165"
 msgid "Specify the cut-off frequency of the audio low pass filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
@@ -747,7 +747,7 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Input"
-msgstr ""
+msgstr "Inmatning"
 
 msgctxt "#30174"
 msgid "Change light gun and/or mouse input settings."
@@ -763,7 +763,7 @@ msgstr ""
 
 msgctxt "#30177"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Pekskärm"
 
 msgctxt "#30178"
 msgid "Display light gun crosshairs when using the MD Menacer, MD Justifiers and MS Light Phaser input device types."
@@ -775,7 +775,7 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulator Hacks"
 
 msgctxt "#30181"
 msgid "Change processor overclocking and emulation accuracy settings that affect low-level performance and compatibility."
@@ -883,7 +883,7 @@ msgstr ""
 
 msgctxt "#30207"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Avancerade inställningar för kanalvolym"
 
 msgctxt "#30208"
 msgid "Change the volume of individual hardware audio channels."

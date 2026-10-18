@@ -27,27 +27,27 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "System Hardware"
-msgstr ""
+msgstr "Модель системи"
 
 msgctxt "#30002"
 msgid "System Region"
-msgstr ""
+msgstr "Регіон системи"
 
 msgctxt "#30003"
 msgid "System Boot ROM"
-msgstr ""
+msgstr "Системний ROM завантаження"
 
 msgctxt "#30004"
 msgid "CD System BRAM (Requires Restart)"
-msgstr ""
+msgstr "CD System BRAM (Потребує Перезавантаження)"
 
 msgctxt "#30005"
 msgid "CD Backup Cart BRAM (Requires Restart)"
-msgstr ""
+msgstr "CD Резервна Копія Карти BRAM (Потребує Перезавантаження)"
 
 msgctxt "#30006"
 msgid "CD Backup Cart BRAM Size (Requires Restart)"
-msgstr ""
+msgstr "Розмір CD Резервної Копії Карти BRAM (Потребує Перезавантаження)"
 
 msgctxt "#30007"
 msgid "CD add-on (MD mode) (Requires Restart)"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Співвідношення сторін з ядра"
 
 msgctxt "#30010"
 msgid "Borders"
@@ -83,7 +83,7 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Фільтр Blargg NTSC"
 
 msgctxt "#30016"
 msgid "LCD Ghosting Filter"
@@ -95,11 +95,11 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Frameskip"
-msgstr ""
+msgstr "Пропуск кадру"
 
 msgctxt "#30019"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Межа пропуску кадрів (%)"
 
 msgctxt "#30020"
 msgid "Master System FM (YM2413)"
@@ -115,11 +115,11 @@ msgstr ""
 
 msgctxt "#30023"
 msgid "Sound Output"
-msgstr ""
+msgstr "Вивід звуку"
 
 msgctxt "#30024"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Аудіофільтр"
 
 msgctxt "#30025"
 msgid "Low-Pass Filter %"
@@ -187,7 +187,7 @@ msgstr ""
 
 msgctxt "#30041"
 msgid "68K Address Error"
-msgstr ""
+msgstr "Адресна помилка 68К"
 
 msgctxt "#30043"
 msgid "PSG Tone Channel 0 Volume %"
@@ -295,19 +295,19 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "System"
-msgstr ""
+msgstr "Система"
 
 msgctxt "#30070"
 msgid "Change base hardware selection, region, BIOS and Sega CD/Mega-CD save file settings."
-msgstr ""
+msgstr "Змінити вибір базового обладнання, регіону, налаштувань BIOS та файлів збереження Sega CD/Mega-CD."
 
 msgctxt "#30071"
 msgid "Runs loaded content with a specific emulated console. 'Auto' will select the most appropriate system for the current game."
-msgstr ""
+msgstr "Відтворювати вміст, емулюючи специфічну модель системи. 'Авто' вибере модель, що найбільше підходить поточній грі."
 
 msgctxt "#30072"
 msgid "Auto"
-msgstr ""
+msgstr "Автоматично"
 
 msgctxt "#30073"
 msgid "SG-1000"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30081"
 msgid "Specify which region the system is from. For consoles other than the Game Gear, 'PAL' is 50 Hz, while 'NTSC' is 60 Hz. Games may run faster or slower than normal if the incorrect region is selected."
-msgstr ""
+msgstr "Вибір регіону системи. Для усіх консолей окрім Game Gear 'PAL' відповідає 50 Гц, а 'NTSC' — 60 Гц. Ігри можуть працювати швидше або повільніше ніж потрібно, якщо вибрано невірний регіон."
 
 msgctxt "#30082"
 msgid "NTSC-U"
@@ -379,7 +379,7 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "When running Sega CD/Mega-CD content, specifies whether to share a single save file between all games from a specific region (Per-BIOS) or to create a separate save file for each game (Per-Game). Note that the Sega CD/Mega-CD has limited internal storage, sufficient only for a handful of titles. To avoid running out of space, the 'Per-Game' setting is recommended."
-msgstr ""
+msgstr "Під час запуску вмісту Sega CD/Mega-CD вказує, чи використовувати один файл збереження для всіх ігор з певного регіону (За кожен BIOS), чи створювати окремий файл збереження для кожної гри (За кожну Гру). Зверніть увагу, що Sega CD/Mega-CD має обмежену внутрішню пам'ять, достатню лише для кількох ігор. Щоб уникнути нестачі місця, рекомендується використовувати параметр \"За кожну Гру\"."
 
 msgctxt "#30091"
 msgid "Per-BIOS"
@@ -391,39 +391,39 @@ msgstr ""
 
 msgctxt "#30093"
 msgid "When running Sega CD/Mega-CD content, specifies whether to share a single backup ram cart for all games (Per-Cart) or to create a separate backup ram cart for each game (Per-Game)."
-msgstr ""
+msgstr "Під час запуску вмісту Sega CD/Mega-CD вказує, чи слід використовувати одну RAM резервної копії для всіх ігор (За кожен Картридж), чи створити окремий RAM резервної копії для кожної гри (За кожну Гру)."
 
 msgctxt "#30094"
 msgid "Per-Cart"
-msgstr ""
+msgstr "За кожен Картридж"
 
 msgctxt "#30095"
 msgid "Sets the backup ram cart size when running Sega CD/Mega-CD content. Useful when setting the backup ram cart to Per-Game to avoid multiple larger cart sizes."
-msgstr ""
+msgstr "Встановлює розмір резервної копії карти RAM під час відтворення вмісту Sega CD/Mega-CD. Корисно, якщо встановити розмір резервної копії карти RAM для кожної гри, щоб уникнути використання багатьох карт більших розмірів."
 
 msgctxt "#30096"
 msgid "128Kbit"
-msgstr ""
+msgstr "128Кбіт"
 
 msgctxt "#30097"
 msgid "256Kbit"
-msgstr ""
+msgstr "256Кбіт"
 
 msgctxt "#30098"
 msgid "512Kbit"
-msgstr ""
+msgstr "512Кбіт"
 
 msgctxt "#30099"
 msgid "1Mbit"
-msgstr ""
+msgstr "1Мбіт"
 
 msgctxt "#30100"
 msgid "2Mbit"
-msgstr ""
+msgstr "2Мбіт"
 
 msgctxt "#30101"
 msgid "4Mbit"
-msgstr ""
+msgstr "4Мбіт"
 
 msgctxt "#30102"
 msgid "Specify which add-on to use for CD audio playback with supported Mega Drive/Genesis games."
@@ -439,7 +439,7 @@ msgstr ""
 
 msgctxt "#30105"
 msgid "None"
-msgstr ""
+msgstr "Немає"
 
 msgctxt "#30106"
 msgid "Lock-On Technology is a Mega Drive/Genesis feature that allowed an older game to connect to the pass-through port of a special cartridge for extended or altered gameplay. This option specifies which type of special 'lock-on' cartridge to emulate. A corresponding bios file must be present in RetroArch's system directory."
@@ -459,11 +459,11 @@ msgstr ""
 
 msgctxt "#30110"
 msgid "Video"
-msgstr ""
+msgstr "Відео"
 
 msgctxt "#30111"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "Налаштування співвідношення сторін / кадрування / відеофільтрів / пропуску кадрів."
 
 msgctxt "#30112"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -519,11 +519,11 @@ msgstr ""
 
 msgctxt "#30125"
 msgid "Monochrome"
-msgstr ""
+msgstr "Монотонні"
 
 msgctxt "#30126"
 msgid "Composite"
-msgstr ""
+msgstr "Композитний"
 
 msgctxt "#30127"
 msgid "S-Video"
@@ -551,23 +551,23 @@ msgstr ""
 
 msgctxt "#30133"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Пропускати кадри, щоб уникнути спустошення буферу (тріскіт). Покращує швидкодію, погіршуючи плавність зображення. 'Авто' пропускає кадри, керуючись командами зовнішньої оболонки. 'Ручний' використовує налаштування 'Межа пропуску кадрів (%)'."
 
 msgctxt "#30134"
 msgid "Manual"
-msgstr ""
+msgstr "Ручний"
 
 msgctxt "#30135"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Якщо 'Пропус кадрів' встановлено у 'Вручну', зазначає граничне значення оточення аудіо-буферу (відсоток), нижчі за які кадри будуть пропущені. Більш високі значення зменшують ризик зломування, викликаючи зменшення кадрів частіше."
 
 msgctxt "#30136"
 msgid "Audio"
-msgstr ""
+msgstr "Звук"
 
 msgctxt "#30137"
 msgid "Change audio device settings."
-msgstr ""
+msgstr "Зміна налаштувань аудіопристрою."
 
 msgctxt "#30138"
 msgid "Enable emulation of the FM Sound Unit used by certain Sega Mark III/Master System games for enhanced audio output."
@@ -599,7 +599,7 @@ msgstr ""
 
 msgctxt "#30145"
 msgid "MAME (Enhanced YM3438)"
-msgstr ""
+msgstr "MAME (Покращений YM3438)"
 
 msgctxt "#30146"
 msgid "Nuked (YM2612)"
@@ -663,11 +663,11 @@ msgstr ""
 
 msgctxt "#30161"
 msgid "Stereo"
-msgstr ""
+msgstr "Cтерео"
 
 msgctxt "#30162"
 msgid "Mono"
-msgstr ""
+msgstr "Моно"
 
 msgctxt "#30163"
 msgid "Enable a low pass audio filter to better simulate the characteristic sound of a Model 1 Mega Drive/Genesis."
@@ -687,7 +687,7 @@ msgstr ""
 
 msgctxt "#30167"
 msgid "Set the audio preamplifier level of the emulated Mega Drive/Genesis FM sound synthesizer or Sega Mark III/Master System FM Sound Unit."
-msgstr ""
+msgstr "Встановити рівень передпідсилення звуку для емулятора FM-синтезатора Mega Drive/Genesis або FM-пристрою Sega Mark III/Master System."
 
 msgctxt "#30168"
 msgid "Adjust the mixing volume of the emulated CD audio playback output."
@@ -711,11 +711,11 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Input"
-msgstr ""
+msgstr "Керування"
 
 msgctxt "#30174"
 msgid "Change light gun and/or mouse input settings."
-msgstr ""
+msgstr "Зміна налаштування світлового пістолета та/або миші."
 
 msgctxt "#30175"
 msgid "Use a mouse-controlled 'Light Gun' or 'Touchscreen' input."
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Гаки емуляції"
 
 msgctxt "#30181"
 msgid "Change processor overclocking and emulation accuracy settings that affect low-level performance and compatibility."
@@ -831,7 +831,7 @@ msgstr ""
 
 msgctxt "#30203"
 msgid "Emulate system lock-ups that occur on real hardware when performing illegal address access. This should only be disabled when playing certain demos and homebrew that rely on illegal behavior for correct operation."
-msgstr ""
+msgstr "Емулювати системне блокування, що є на оригінальному пристрої, коли відбувається некоректний запит до адреси пам'яті. Це налаштування потрібно вимикати лише для запуску певних демо чи неофіційних програм, що використовують некоректні запити у своїй роботі."
 
 msgctxt "#30204"
 msgid "The Mega Drive/Genesis main CPU (Motorola 68000) generates an Address Error exception (crash) when attempting to perform unaligned memory access. Enabling this will simulate this behavior. It should only be disabled when playing ROM hacks, since these are typically developed using less accurate emulators and may rely on invalid RAM access for correct operation."
@@ -847,7 +847,7 @@ msgstr ""
 
 msgctxt "#30207"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Розширені налаштування гучності"
 
 msgctxt "#30208"
 msgid "Change the volume of individual hardware audio channels."

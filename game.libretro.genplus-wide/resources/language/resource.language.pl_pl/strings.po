@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "System Hardware"
-msgstr ""
+msgstr "Sprzęt systemu"
 
 msgctxt "#30002"
 msgid "System Region"
-msgstr ""
+msgstr "Region systemowy"
 
 msgctxt "#30003"
 msgid "System Boot ROM"
@@ -51,7 +51,7 @@ msgstr ""
 
 msgctxt "#30007"
 msgid "CD add-on (MD mode) (Requires Restart)"
-msgstr ""
+msgstr "Dodatek CD (tryb MD) (wymaga restartu)"
 
 msgctxt "#30008"
 msgid "Cartridge Lock-On"
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Borders"
-msgstr ""
+msgstr "Krawędzie"
 
 msgctxt "#30011"
 msgid "Extra columns to draw in H40 for widescreen"
@@ -75,7 +75,7 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Hide Master System Side Borders"
-msgstr ""
+msgstr "Ukryj główne granice po stronie systemu"
 
 msgctxt "#30014"
 msgid "Game Gear Extended Screen"
@@ -83,7 +83,7 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Blargg NTSC Filter"
-msgstr ""
+msgstr "Duży filtr NTSC"
 
 msgctxt "#30016"
 msgid "LCD Ghosting Filter"
@@ -95,11 +95,11 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Frameskip"
-msgstr ""
+msgstr "Pomijanie klatek"
 
 msgctxt "#30019"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Próg pominięcia ramki (%)"
 
 msgctxt "#30020"
 msgid "Master System FM (YM2413)"
@@ -107,7 +107,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Master System FM (YM2413) Core"
-msgstr ""
+msgstr "Rdzeń Master System FM (YM2413)"
 
 msgctxt "#30022"
 msgid "Mega Drive/Genesis FM"
@@ -115,15 +115,15 @@ msgstr ""
 
 msgctxt "#30023"
 msgid "Sound Output"
-msgstr ""
+msgstr "Wyjście dźwięku"
 
 msgctxt "#30024"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtr audio"
 
 msgctxt "#30025"
 msgid "Low-Pass Filter %"
-msgstr ""
+msgstr "Filtr dolnoprzepustowy %"
 
 msgctxt "#30026"
 msgid "PSG Preamp Level"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "CD-DA Volume"
-msgstr ""
+msgstr "Głośność CD-DA"
 
 msgctxt "#30029"
 msgid "PCM Volume"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Light Gun Input"
-msgstr ""
+msgstr "Wejście pistoleta świetlnego"
 
 msgctxt "#30034"
 msgid "Show Light Gun Crosshair"
@@ -183,11 +183,11 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "System Lock-Ups"
-msgstr ""
+msgstr "Blokada systemu"
 
 msgctxt "#30041"
 msgid "68K Address Error"
-msgstr ""
+msgstr "Błąd adresu 68K"
 
 msgctxt "#30043"
 msgid "PSG Tone Channel 0 Volume %"
@@ -267,15 +267,15 @@ msgstr ""
 
 msgctxt "#30062"
 msgid "Force VDP Mode"
-msgstr ""
+msgstr "Wymuś tryb VDP"
 
 msgctxt "#30063"
 msgid "CD Access Time"
-msgstr ""
+msgstr "Czas dostępu CD"
 
 msgctxt "#30064"
 msgid "CD Image Cache"
-msgstr ""
+msgstr "Pamięć podręczna obrazów CD"
 
 msgctxt "#30065"
 msgid "Extra columns alpha %"
@@ -299,15 +299,15 @@ msgstr ""
 
 msgctxt "#30070"
 msgid "Change base hardware selection, region, BIOS and Sega CD/Mega-CD save file settings."
-msgstr ""
+msgstr "Zmień podstawowy wybór sprzętu, region, BIOS i Sega CD/Mega-CD ustawienia plików."
 
 msgctxt "#30071"
 msgid "Runs loaded content with a specific emulated console. 'Auto' will select the most appropriate system for the current game."
-msgstr ""
+msgstr "Uruchamia załadowaną zawartość z określoną emulowaną konsolą. 'Auto' wybierze najbardziej odpowiedni system dla bieżącej gry."
 
 msgctxt "#30072"
 msgid "Auto"
-msgstr ""
+msgstr "Automatyczny"
 
 msgctxt "#30073"
 msgid "SG-1000"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#30081"
 msgid "Specify which region the system is from. For consoles other than the Game Gear, 'PAL' is 50 Hz, while 'NTSC' is 60 Hz. Games may run faster or slower than normal if the incorrect region is selected."
-msgstr ""
+msgstr "Określ z którego regionu system jest korzystny. Dla konsoli innych niż sprzęt do gry, 'PAL' to 50 Hz, a 'NTSC' to 60 Hz. Gry mogą działać szybciej lub wolniej niż normalnie, jeśli wybrany zostanie nieprawidłowy region."
 
 msgctxt "#30082"
 msgid "NTSC-U"
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "#30085"
 msgid "Overrides the VDP mode to force it to run at either NTSC 60Hz or PAL 50Hz, regardless of system region."
-msgstr ""
+msgstr "Nadpisuje tryb VDP w celu zmuszenia go do pracy z prędkością 60Hz (NTSC) lub 50Hz (PAL), niezależnie od regionu układu."
 
 msgctxt "#30086"
 msgid "Disabled"
@@ -439,7 +439,7 @@ msgstr ""
 
 msgctxt "#30105"
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 msgctxt "#30106"
 msgid "Lock-On Technology is a Mega Drive/Genesis feature that allowed an older game to connect to the pass-through port of a special cartridge for extended or altered gameplay. This option specifies which type of special 'lock-on' cartridge to emulate. A corresponding bios file must be present in RetroArch's system directory."
@@ -459,11 +459,11 @@ msgstr ""
 
 msgctxt "#30110"
 msgid "Video"
-msgstr ""
+msgstr "Wideo"
 
 msgctxt "#30111"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "Zmień proporcje obrazu, przycięcie obrazu, filtry wideo i ustawienia pomijania klatek."
 
 msgctxt "#30112"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -475,15 +475,15 @@ msgstr ""
 
 msgctxt "#30114"
 msgid "Top/Bottom"
-msgstr ""
+msgstr "Góra/Dół"
 
 msgctxt "#30115"
 msgid "Left/Right"
-msgstr ""
+msgstr "Lewo/Prawo"
 
 msgctxt "#30116"
 msgid "Full"
-msgstr ""
+msgstr "Pełny"
 
 msgctxt "#30117"
 msgid "Set the amount of extra colums to draw for widescreen"
@@ -503,7 +503,7 @@ msgstr ""
 
 msgctxt "#30121"
 msgid "Left Border Only"
-msgstr ""
+msgstr "Tylko lewa ramka"
 
 msgctxt "#30122"
 msgid "Left & Right Borders"
@@ -519,11 +519,11 @@ msgstr ""
 
 msgctxt "#30125"
 msgid "Monochrome"
-msgstr ""
+msgstr "Monochromia"
 
 msgctxt "#30126"
 msgid "Composite"
-msgstr ""
+msgstr "Kompozytowy"
 
 msgctxt "#30127"
 msgid "S-Video"
@@ -555,19 +555,19 @@ msgstr ""
 
 msgctxt "#30134"
 msgid "Manual"
-msgstr ""
+msgstr "Ręczny"
 
 msgctxt "#30135"
 msgid "When 'Frameskip' is set to 'Manual', specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Gdy 'Frameskip' jest ustawiony na 'Manual', określa próg zajęcia bufora audio (procent) poniżej którego ramki zostaną pominięte. Wyższe wartości zmniejszają ryzyko trzasków poprzez częstsze opuszczanie ramek."
 
 msgctxt "#30136"
 msgid "Audio"
-msgstr ""
+msgstr "Dźwięk"
 
 msgctxt "#30137"
 msgid "Change audio device settings."
-msgstr ""
+msgstr "Zmień ustawienia urządzenia audio."
 
 msgctxt "#30138"
 msgid "Enable emulation of the FM Sound Unit used by certain Sega Mark III/Master System games for enhanced audio output."
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "Select stereo or mono sound playback."
-msgstr ""
+msgstr "Wybierz odtwarzanie dźwięku stereo lub mono."
 
 msgctxt "#30161"
 msgid "Stereo"
@@ -671,7 +671,7 @@ msgstr ""
 
 msgctxt "#30163"
 msgid "Enable a low pass audio filter to better simulate the characteristic sound of a Model 1 Mega Drive/Genesis."
-msgstr ""
+msgstr "Włącz filtr dźwiękowy o niskim biegu, aby lepiej symulować dźwięk charakterystyczny modelu 1 Mega Drive/Genesis."
 
 msgctxt "#30164"
 msgid "Low-Pass"
@@ -711,11 +711,11 @@ msgstr ""
 
 msgctxt "#30173"
 msgid "Input"
-msgstr ""
+msgstr "Wejście"
 
 msgctxt "#30174"
 msgid "Change light gun and/or mouse input settings."
-msgstr ""
+msgstr "Zmień ustawienia wprowadzania broni świetlnej i/lub myszy."
 
 msgctxt "#30175"
 msgid "Use a mouse-controlled 'Light Gun' or 'Touchscreen' input."
@@ -723,11 +723,11 @@ msgstr ""
 
 msgctxt "#30176"
 msgid "Light Gun"
-msgstr ""
+msgstr "Pistolet Świetlny"
 
 msgctxt "#30177"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Ekran dotykowy"
 
 msgctxt "#30178"
 msgid "Display light gun crosshairs when using the MD Menacer, MD Justifiers and MS Light Phaser input device types."
@@ -739,11 +739,11 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacki emulacyjne"
 
 msgctxt "#30181"
 msgid "Change processor overclocking and emulation accuracy settings that affect low-level performance and compatibility."
-msgstr ""
+msgstr "Zmiana ustawień nadpisywania procesora i dokładności emulacji, które wpływają na niską wydajność i kompatybilność."
 
 msgctxt "#30182"
 msgid "Removes the original sprite-per-scanline hardware limit. This reduces flickering but can cause visual glitches, as some games exploit the hardware limit to generate special effects."
@@ -755,7 +755,7 @@ msgstr ""
 
 msgctxt "#30184"
 msgid "Only when Enhanced per-tile vertical scroll is enabled. Adjusts the limit of the vertical scroll enhancement. When the vscroll difference between neighbouring tiles is bigger than this limit, the enhancement is disabled."
-msgstr ""
+msgstr "Tylko gdy ulepszone pionowe przewijanie w polu jest włączone. Dostosuj limit wzmocnienia przewijania w pionie. Gdy różnica pomiędzy sąsiednimi polami jest większa niż ten limit, wzmocnienie jest wyłączone."
 
 msgctxt "#30185"
 msgid "Overclock the emulated CPU. Can reduce slowdown, but may cause glitches."
@@ -843,19 +843,19 @@ msgstr ""
 
 msgctxt "#30206"
 msgid "Load CD image to memory on startup. CHD supported only. Restart Required."
-msgstr ""
+msgstr "Załaduj obraz CD do pamięci podczas uruchamiania. Obsługiwane tylko pliki CHD. Wymagane ponowne uruchomienie."
 
 msgctxt "#30207"
 msgid "Advanced Channel Volume Settings"
-msgstr ""
+msgstr "Zaawansowane ustawienia głośności kanału"
 
 msgctxt "#30208"
 msgid "Change the volume of individual hardware audio channels."
-msgstr ""
+msgstr "Zmień głośność poszczególnych kanałów audio."
 
 msgctxt "#30209"
 msgid "Show Advanced Audio Volume Settings (Reopen menu)"
-msgstr ""
+msgstr "Pokaż zaawansowane ustawienia głośności dźwięku (Otwórz menu ponownie)"
 
 msgctxt "#30210"
 msgid "Enable configuration of low-level audio channel parameters. NOTE: Quick Menu must be toggled for this setting to take effect."
